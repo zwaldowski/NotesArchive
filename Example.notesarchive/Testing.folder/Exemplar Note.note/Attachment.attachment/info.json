@@ -1,0 +1,69 @@
+{
+    "isRightToLeft": false,
+    "modifiedAt": "2021-10-08T00:12:07Z",
+    "attachmentTypeIdentifier": "com.apple.notes.table",
+    "rows": [
+        [
+            {
+                "attributes": [
+                    {
+                        "range": {
+                            "length": 5,
+                            "startsAt": 0
+                        },
+                        "writingDirection": "LEFT_TO_RIGHT",
+                        "paragraphStyle": {
+                            "name": "BODY",
+                            "indent": 0,
+                            "alignment": "NATURAL"
+                        }
+                    }
+                ],
+                "text": "First"
+            },
+            {
+                "attributes": [
+                    {
+                        "range": {
+                            "length": 6,
+                            "startsAt": 0
+                        },
+                        "writingDirection": "LEFT_TO_RIGHT",
+                        "paragraphStyle": {
+                            "name": "BODY",
+                            "indent": 0,
+                            "alignment": "NATURAL"
+                        }
+                    }
+                ],
+                "text": "Second"
+            }
+        ],
+        [
+            {
+                "attributes": [
+                    {
+                        "range": {
+                            "length": 5,
+                            "startsAt": 0
+                        },
+                        "writingDirection": "LEFT_TO_RIGHT",
+                        "paragraphStyle": {
+                            "name": "BODY",
+                            "indent": 0,
+                            "alignment": "NATURAL"
+                        }
+                    }
+                ],
+                "text": "Third"
+            },
+            {
+                "attributes": [],
+                "text": ""
+            }
+        ]
+    ],
+    "identifier": "69D3D80D-F9DE-4DD7-9370-3C20017CFAD4",
+    "typeIdentifier": "com.apple.notes.attachment",
+    "createdAt": "2021-10-08T00:12:01Z"
+}
